@@ -26,3 +26,4 @@ https://archive.ics.uci.edu/ml/index.php
 **Anotações** : Índice referente às anotações externas à empresa, tais como anotações SERASA / SPC / BACEN.
 
 **Risco** : Risco do Cliente atribuído dadas as variáveis de análise do cliente.
+
